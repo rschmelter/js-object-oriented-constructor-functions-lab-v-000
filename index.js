@@ -1,6 +1,5 @@
-function User(year, color, model) {
-  this.year = year;
+function User (year, color, model) {
+  this.year = year
   this.color = color;
-  this.model = model; 
-  
+  this.model = model;   
 }
